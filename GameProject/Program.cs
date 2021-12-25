@@ -16,8 +16,8 @@ namespace GameProject
                 MemberId = 1,
                 FirstName = "Tahsin",
                 LastName = "IŞIK",
-                DateOfBirth = new DateTime(2002,06,23),
-                NationalityId = "30092139838"
+                DateOfBirth = new DateTime(199,1,1),
+                NationalityId = "11111111111"
             };
 
             Campaign campaign = new Campaign
